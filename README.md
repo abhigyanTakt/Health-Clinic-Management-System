@@ -7,4 +7,4 @@ make a plan by seeing different project ideas.
 
  -Backend: Python
  
- -Frontend: Should look preety
+ -Frontend: Should look preety, anime.js etc
