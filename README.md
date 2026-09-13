@@ -11,4 +11,6 @@ make a plan by seeing different project ideas.
 
  -Frontend: Should look preety, anime.js etc
 
+ framework -> react with vite 
+
  Deployment : vercel
