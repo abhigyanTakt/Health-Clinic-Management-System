@@ -15,3 +15,5 @@ make a plan by seeing different project ideas.
  framework -> react with vite 
 
  Deployment : vercel
+
+ imp key points -> change dollar to currency use indian , data sets
