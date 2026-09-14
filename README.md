@@ -32,3 +32,4 @@ make a plan by seeing different project ideas.
 
 ## Imp things we need to do:
 -new page and gooogle login screen
+- themes motions, interface for diff users
