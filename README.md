@@ -10,7 +10,7 @@ make a plan by seeing different project ideas.
  -Backend: Python version -> 3.11.7
 
  -Frontend: Should look preety, anime.js etc
- - spline 3d,vectary
+ - spline 3d,vectary , three.js
 
  framework -> react with vite 
 
