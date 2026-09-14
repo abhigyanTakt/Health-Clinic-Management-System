@@ -11,6 +11,8 @@ make a plan by seeing different project ideas.
 
  -Frontend: Should look preety, anime.js etc
  - spline 3d,vectary , three.js
+ - for scrolling use Lenis
+ - react ecosystem -> react three fibers , drei 
 
  framework -> react with vite 
 
