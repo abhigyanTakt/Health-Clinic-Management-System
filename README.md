@@ -28,3 +28,7 @@ make a plan by seeing different project ideas.
  -Add Lenis for smooth scroll
  -Use shaders for any custom visual effects (gradients, distortion, particle fields)
  -Optimize: lazy-load 3D assets, reduce polygon count, use compressed textures
+
+
+## Imp things we need to do:
+-new page and gooogle login screen
